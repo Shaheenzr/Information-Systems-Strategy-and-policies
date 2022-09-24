@@ -1,5 +1,3 @@
-# Information-Systems-Strategy-and-policies
-
 Company of Interest: SHEIN
 
 Problem Descriptions:
